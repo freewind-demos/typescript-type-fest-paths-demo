@@ -1,18 +1,9 @@
-TypeScript Hello World Demo
+TypeScript "type-fest" Paths Demo
 ===========================
+
+居然可以在string层面弄出这么复杂的type
 
 ```
 npm install
 npm start
 ```
-
-Note:
-
-`esModuleInterop` is recommended to set to `true`,
-since we can have consistent importing syntax with babel,
-always use:
-
-```
-import some from 'some'
-```
-
